@@ -117,17 +117,17 @@ html,body{
     text-align: right;
     color: #fff;
     font-family: dm sans;
-    font-size: 12px;
+    font-size: 0.8vw;
    
 }
 #hero-right p:nth-child(3){
-    padding-top: 20px ;
+    padding-top: 1.2vw ;
 }
 #hero-right p:nth-child(4){
-    padding-top: 70px;
+    padding-top: 4vw;
 }
 #hero-right p:nth-child(1){
-    padding-bottom: 20px;
+    padding-bottom: 1.2vw;
 }
 .elem h1:nth-child(1){
     top: 0;
@@ -155,8 +155,8 @@ html,body{
   pointer-events: all;
 }
 #imagediv{
-    height: 110px;
-    width: 150px;
+    height: 16vh;
+    width: 10vw;
     background-color: #fff;
    
     background-image: url(https://images.unsplash.com/photo-1527203561188-dae1bc1a417f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fHBvcnRyYWl0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60);
